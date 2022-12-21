@@ -96,10 +96,6 @@ namespace ShortVideo
             axWindowsMediaPlayer1.Ctlcontrols.play();
             button2.Text = "播放";
             button2.Enabled = false;
-
-
-
-
         }
     }
 }
